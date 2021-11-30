@@ -1,4 +1,4 @@
 # git-pull
 
 
-les go
+let's go folks
