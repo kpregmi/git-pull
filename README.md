@@ -1,4 +1,4 @@
 # git-pull
 
 
-We're on our way, folks!
+I don't get pull requests. Thank you!
