@@ -1,4 +1,4 @@
 # git-pull
 
 
-We're on our way, folks!
+Pull request is confusing at begining.
